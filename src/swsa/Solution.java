@@ -44,9 +44,9 @@ public class Solution {
         // glasses.remove(i);
         // }
 
-        if(glasses.size() == 0) {
-            System.out.println("Пирамида разобрана! / The pyramid has been dismantled!");
-        }
+//        if(glasses.size() == 0) {
+//            System.out.println("Пирамида разобрана! / The pyramid has been dismantled!");
+//        }
     }
 
     public static void main(String[] args) {
